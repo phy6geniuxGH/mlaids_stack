@@ -3,3 +3,4 @@
 ## Projects
 - Natural Language Processing
 - Computer Vision
+- Transformer Models
