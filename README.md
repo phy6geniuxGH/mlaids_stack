@@ -4,3 +4,4 @@
 - Natural Language Processing
 - Computer Vision
 - Transformer Models
+- Data Analytics
