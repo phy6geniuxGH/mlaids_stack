@@ -4,4 +4,5 @@
 - Natural Language Processing
 - Computer Vision
 - Transformer Models
-- Data Analytics
+- Data Analytics and Dashboarding
+- Data Science Projects
