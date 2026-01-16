@@ -9,3 +9,4 @@
 - ML Project with FastAPI, MLFlow, and GUI features
 - Teaching ML materials
 - Software Engineering
+- System Design
