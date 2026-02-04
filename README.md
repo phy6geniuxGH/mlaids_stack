@@ -12,3 +12,5 @@
 - System Design
 - Cryptography
 - Web Development
+## Planned Tech Stack
+- PyTorch
