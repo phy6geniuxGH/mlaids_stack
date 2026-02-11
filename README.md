@@ -15,3 +15,4 @@
 ## Planned Tech Stack
 - PyTorch
 - MLFlow
+- Hugging Face
