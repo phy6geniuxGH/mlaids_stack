@@ -16,3 +16,5 @@
 - PyTorch
 - MLFlow
 - Hugging Face
+- n8n
+- Ollama
