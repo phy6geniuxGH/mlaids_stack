@@ -12,6 +12,8 @@
 - System Design
 - Cryptography
 - Web Development
+- Frontend
+- Backend
 ## Planned Tech Stack
 - PyTorch
 - MLFlow
