@@ -20,3 +20,6 @@
 - Hugging Face
 - n8n
 - Ollama
+- PyGUIBuilder
+- NiceGUI
+- CustomTkinter
