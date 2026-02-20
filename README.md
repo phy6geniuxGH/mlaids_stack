@@ -23,3 +23,4 @@
 - PyGUIBuilder
 - NiceGUI
 - CustomTkinter
+- Optuna
