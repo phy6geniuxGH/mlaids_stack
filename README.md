@@ -24,3 +24,4 @@
 - NiceGUI
 - CustomTkinter
 - Optuna
+- Git
