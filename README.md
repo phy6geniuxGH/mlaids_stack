@@ -25,3 +25,4 @@
 - CustomTkinter
 - Optuna
 - Git
+- Databricks SQL
