@@ -27,3 +27,4 @@
 - Git
 - Databricks SQL
 - AutoML
+- OpenClaw
