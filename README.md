@@ -26,3 +26,4 @@
 - Optuna
 - Git
 - Databricks SQL
+- AutoML
