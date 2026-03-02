@@ -29,3 +29,4 @@
 - AutoML
 - OpenClaw
 - Polars
+- Apache Spark
