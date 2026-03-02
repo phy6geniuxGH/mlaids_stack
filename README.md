@@ -28,3 +28,4 @@
 - Databricks SQL
 - AutoML
 - OpenClaw
+- Polars
