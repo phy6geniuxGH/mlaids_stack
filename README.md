@@ -29,5 +29,5 @@
 - AutoML
 - OpenClaw
 - Polars
-- Spark
+- PySpark
 - mermaid.ai
