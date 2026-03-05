@@ -29,4 +29,5 @@
 - AutoML
 - OpenClaw
 - Polars
-- Apache Spark
+- Spark
+- mermaid.ai
