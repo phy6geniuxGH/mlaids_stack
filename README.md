@@ -14,6 +14,9 @@
 - Web Development
 - Frontend
 - Backend
+- Machine Learning Operations
+- Development Operations
+- Advanced Machine Learning
 ## Planned Tech Stack
 - PyTorch
 - MLFlow
