@@ -34,3 +34,6 @@
 - Polars
 - PySpark
 - mermaid.ai
+- Gemini embedding 2
+- Vector Store
+- Supabase
