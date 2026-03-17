@@ -39,3 +39,4 @@
 - Supabase
 - Artifactory
 - Cursor
+- OpenClaw
