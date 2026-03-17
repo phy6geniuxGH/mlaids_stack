@@ -37,3 +37,5 @@
 - Gemini embedding 2
 - Vector Store
 - Supabase
+- Artifactory
+- Cursor
