@@ -40,3 +40,4 @@
 - Artifactory
 - Cursor
 - OpenClaw
+- Svelte
