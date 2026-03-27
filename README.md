@@ -41,3 +41,4 @@
 - Cursor
 - OpenClaw
 - Svelte
+- Tailwind CSS
