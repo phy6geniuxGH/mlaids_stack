@@ -17,6 +17,7 @@
 - Machine Learning Operations
 - Development Operations
 - Advanced Machine Learning
+- Agentic AI
 ## Planned Tech Stack
 - PyTorch
 - MLFlow
@@ -42,3 +43,4 @@
 - OpenClaw
 - Svelte
 - Tailwind CSS
+- Laravel
