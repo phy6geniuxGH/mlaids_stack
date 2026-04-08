@@ -18,6 +18,7 @@
 - Development Operations
 - Advanced Machine Learning
 - Agentic AI
+- Deep Learning
 ## Planned Tech Stack
 - PyTorch
 - MLFlow
