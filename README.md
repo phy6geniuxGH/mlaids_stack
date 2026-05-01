@@ -45,3 +45,4 @@
 - Svelte
 - Tailwind CSS
 - Laravel
+- SQLite
