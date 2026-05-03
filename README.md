@@ -19,6 +19,7 @@
 - Advanced Machine Learning
 - Agentic AI
 - Deep Learning
+- AI Operations
 ## Planned Tech Stack
 - PyTorch
 - MLFlow
