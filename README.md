@@ -20,6 +20,7 @@
 - Agentic AI
 - Deep Learning
 - AI Operations
+- Data Engineering App Builders 
 ## Planned Tech Stack
 - PyTorch
 - MLFlow
