@@ -48,3 +48,6 @@
 - Tailwind CSS
 - Laravel
 - SQLite
+- Claude
+- Codex
+- Gemini
