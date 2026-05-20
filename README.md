@@ -43,11 +43,12 @@
 - Supabase
 - Artifactory
 - Cursor
-- OpenClaw
 - Svelte
 - Tailwind CSS
 - Laravel
 - SQLite
 - Claude
 - Codex
-- Gemini
+- Gemini Spark
+- Antigravity
+- Hermes Agent
