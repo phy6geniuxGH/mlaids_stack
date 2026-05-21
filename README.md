@@ -50,5 +50,6 @@
 - Claude
 - Codex
 - Gemini Spark
-- Antigravity
+- Antigravity CLI
+- Antigravity 2.0
 - Hermes Agent
