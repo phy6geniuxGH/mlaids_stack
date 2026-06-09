@@ -54,3 +54,4 @@
 - Antigravity CLI
 - Antigravity 2.0
 - Hermes Agent
+- MLX-LM agentic coding
