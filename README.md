@@ -22,6 +22,7 @@
 - AI Operations
 - Data Engineering App Builders
 - Physics Simulations
+- Advanced Analytics using Statistical Methods
 ## Planned Tech Stack
 - PyTorch
 - MLFlow
