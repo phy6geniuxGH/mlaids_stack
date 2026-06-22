@@ -49,7 +49,8 @@
 - Tailwind CSS
 - Laravel
 - SQLite
-- Claude
+- Claude Cowork
+- Claude Code
 - Codex
 - Gemini Spark
 - Antigravity CLI
