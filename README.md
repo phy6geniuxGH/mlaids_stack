@@ -23,6 +23,7 @@
 - Data Engineering App Builders
 - Physics Simulations
 - Advanced Analytics using Statistical Methods
+- Systems Thinking
 ## Planned Tech Stack
 - PyTorch
 - MLFlow
