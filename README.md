@@ -60,3 +60,4 @@
 - MLX-LM agentic coding
 - VSCode
 - Zed
+- Sakana Fugu AI
