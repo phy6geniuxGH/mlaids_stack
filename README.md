@@ -27,6 +27,7 @@
 - CI/CD
 - Agentic Engineering
 - Physics-informed Neural Networks
+- Non-LLM based architecture for AI
   
 ## Planned Tech Stack
 - PyTorch
