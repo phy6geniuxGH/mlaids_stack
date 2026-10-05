@@ -71,8 +71,9 @@
 - Kimi K3
 - Deepseek
 - Qwen
-- AWS Skillbuiler
+- AWS Skillbuilder
 - AWS Bedrock
 - AWS Bedrock AgentCore
 - Amazon SageMaker
 - Databricks App
+- Bitbucket
