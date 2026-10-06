@@ -77,3 +77,4 @@
 - Amazon SageMaker
 - Databricks App
 - Bitbucket
+- Databricks Genie
