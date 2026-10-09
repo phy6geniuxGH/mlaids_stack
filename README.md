@@ -69,7 +69,7 @@
 - GPT-5.6 Sol
 - Claude Opus 5
 - Kimi K3
-- Deepseek
+- Deepseek v4.1
 - Qwen
 - AWS Skillbuilder
 - AWS Bedrock
@@ -78,3 +78,4 @@
 - Databricks App
 - Bitbucket
 - Databricks Genie
+- Databricks Lakehouse
