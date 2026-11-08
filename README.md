@@ -79,3 +79,5 @@
 - Bitbucket
 - Databricks Genie
 - Databricks Lakehouse
+- Orca
+- Herdr
