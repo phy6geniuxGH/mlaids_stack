@@ -81,3 +81,4 @@
 - Databricks Lakehouse
 - Orca
 - Herdr
+- Termux
