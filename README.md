@@ -77,6 +77,9 @@
 - Amazon SageMaker
 - Databricks App
 - Bitbucket
+- Typescript
+- Rust
+- Swift
 - Databricks Genie
 - Databricks Lakehouse
 - Orca
